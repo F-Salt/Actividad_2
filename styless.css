@@ -7,7 +7,7 @@ body {
 }
 
 header, footer {
-    background-color: #87f4e8;
+    background-color: #87f4e8; /* Color para header y footer */
     color: #362d4b;
     text-align: center;
     padding: 1rem;
@@ -31,7 +31,7 @@ section#top5 article {
 }
 
 section#top5 img {
-    border: 2px solid #87f4e8;
+    border: 2px solid #87f4e8; /* Color para bordes de las imágenes */
     margin: 0.5rem 0;
     max-width: 100%;
     height: auto;
