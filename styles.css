@@ -50,7 +50,7 @@ section#top5 article {
 }
 
 section#top5 img {
-    border: 2px solid #87f4e8; /* Color para bordes de las imágenes */
+    border: 3px solid #362d4b; /* Color para bordes de las imágenes */
     margin: 10px auto; /* Margen para imágenes */
     display: block;
     max-width: 60%; /* Ajustar el tamaño de las imágenes */
@@ -58,16 +58,13 @@ section#top5 img {
 }
 
 article h3 {
-    font-size: 30px; /* Tamaño del nombre de los animes */
+    font-size: 33px; /* Tamaño del nombre de los animes */
     font-weight: bold; /* Negrita para los nombres de los animes */
     color: #362d4b;
 }
 
 hr {
     border: 0;
-    border-top: 2px solid #87f4e8; /* Color de la división entre animes */
+    border-top: 5px solid #87f4e8; /* Color de la división entre animes */
     margin: 20px 0;
 }
-
-footer p {
-    margin:[_{{{CITATION{{{_1{](https://github.com/la9una/web/tree/ba1073ae044ebb7b538a3b13f0f9598f7c410bb6/docs%2Fbootstrap%2Falignci.md)
