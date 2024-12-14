@@ -37,11 +37,12 @@ section#top5 img {
     height: auto;
 }
 
-article h3 {
+article h3, p {
     color: #362d4b;
-    margin-top: 0;
+    text-align: center;
 }
 
 footer p {
     margin: 0.5rem 0;
+    text-align: center;
 }
