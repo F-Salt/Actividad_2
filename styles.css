@@ -63,6 +63,11 @@ article h3 {
     color: #362d4b;
 }
 
-footer p {
-    margin: 10px 0;
+hr {
+    border: 0;
+    border-top: 2px solid #87f4e8; /* Color de la división entre animes */
+    margin: 20px 0;
 }
+
+footer p {
+    margin:[_{{{CITATION{{{_1{](https://github.com/la9una/web/tree/ba1073ae044ebb7b538a3b13f0f9598f7c410bb6/docs%2Fbootstrap%2Falignci.md)
